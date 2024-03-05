@@ -1,0 +1,10 @@
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\bin\Debug\Iranyitoszamos.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\bin\Debug\Iranyitoszamos.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\bin\Debug\Iranyitoszamos.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\obj\Debug\Iranyitoszamos.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\obj\Debug\Iranyitoszamos.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\obj\Debug\Iranyitoszamos.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\obj\Debug\Iranyitoszamos.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Iranyitoszamos\obj\Debug\Iranyitoszamos.csproj.CopyComplete

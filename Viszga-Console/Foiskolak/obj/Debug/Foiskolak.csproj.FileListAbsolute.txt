@@ -1,0 +1,10 @@
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\obj\Debug\Foiskolak.csproj.AssemblyReference.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\obj\Debug\Foiskolak.csproj.CoreCompileInputs.cache
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\bin\Debug\Foiskolak.exe.config
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\bin\Debug\Foiskolak.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\bin\Debug\Foiskolak.pdb
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\obj\Debug\Foiskolak.csproj.CopyComplete
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\obj\Debug\Foiskolak.exe
+C:\Users\patai.szabolcs.lajos\source\repos\B141\Viszga-Console\Foiskolak\obj\Debug\Foiskolak.pdb
